@@ -4,3 +4,7 @@ numpy
 Pillow
 torch
 torchvision
+opencv
+natsort
+pandas
+tensorflow=1.12
